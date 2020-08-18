@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-app1/static/css/main.95409c93.chunk.css",
+    "main.js": "/react-app1/static/js/main.d63deab8.chunk.js",
+    "main.js.map": "/react-app1/static/js/main.d63deab8.chunk.js.map",
+    "runtime-main.js": "/react-app1/static/js/runtime-main.be640214.js",
+    "runtime-main.js.map": "/react-app1/static/js/runtime-main.be640214.js.map",
+    "static/js/2.15bb9b65.chunk.js": "/react-app1/static/js/2.15bb9b65.chunk.js",
+    "static/js/2.15bb9b65.chunk.js.map": "/react-app1/static/js/2.15bb9b65.chunk.js.map",
+    "index.html": "/react-app1/index.html",
+    "precache-manifest.7913b9cf19fa50842947ee2ab863f9ac.js": "/react-app1/precache-manifest.7913b9cf19fa50842947ee2ab863f9ac.js",
+    "service-worker.js": "/react-app1/service-worker.js",
+    "static/css/main.95409c93.chunk.css.map": "/react-app1/static/css/main.95409c93.chunk.css.map",
+    "static/js/2.15bb9b65.chunk.js.LICENSE.txt": "/react-app1/static/js/2.15bb9b65.chunk.js.LICENSE.txt",
+    "static/media/alfred-rowe-FVWTUOIUZd8-unsplash.jpg": "/react-app1/static/media/alfred-rowe-FVWTUOIUZd8-unsplash.d0e47f14.jpg",
+    "static/media/alfred-rowe-w2dWzKL_t5E-unsplash.jpg": "/react-app1/static/media/alfred-rowe-w2dWzKL_t5E-unsplash.6d792478.jpg",
+    "static/media/hello-lightbulb-QqMy7OBBJjE-unsplash.jpg": "/react-app1/static/media/hello-lightbulb-QqMy7OBBJjE-unsplash.9f0992a2.jpg",
+    "static/media/reuben-hayfron-RjkZHESUuPw-unsplash.jpg": "/react-app1/static/media/reuben-hayfron-RjkZHESUuPw-unsplash.aef20574.jpg",
+    "static/media/seyiram-kweku-I9YlJppV_TQ-unsplash.jpg": "/react-app1/static/media/seyiram-kweku-I9YlJppV_TQ-unsplash.beee6df9.jpg",
+    "static/media/yoel-winkler-bSkAO5691MA-unsplash.jpg": "/react-app1/static/media/yoel-winkler-bSkAO5691MA-unsplash.6d7956e5.jpg",
+    "static/media/zac-wolff-30p3lM7OKzU-unsplash.jpg": "/react-app1/static/media/zac-wolff-30p3lM7OKzU-unsplash.0987444b.jpg",
+    "static/media/zac-wolff-7vU0nE1iwZ4-unsplash.jpg": "/react-app1/static/media/zac-wolff-7vU0nE1iwZ4-unsplash.a3fbd958.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be640214.js",
+    "static/js/2.15bb9b65.chunk.js",
+    "static/css/main.95409c93.chunk.css",
+    "static/js/main.d63deab8.chunk.js"
+  ]
+}
